@@ -1,7 +1,7 @@
-# Experiment-4---IMPLEMENTATION-OF-MLP-WITH-BACKPROPAGATION
+# EXPERIMENT-4---IMPLEMENTATION-OF-MLP-WITH-BACKPROPAGATION
 
 ## AIM:
-To implement a Multilayer Perceptron for Multi classification
+To implement a Multilayer Perceptron for Multi classification.
 
 ## EQUIPMENTS REQUIRED:
 Hardware – PCs
